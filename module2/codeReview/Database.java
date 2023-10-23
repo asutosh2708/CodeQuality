@@ -1,9 +1,9 @@
 public class Database
 {
-    private SqlServerConnection _databaseConnection;
+    private IDatabaseConnection _databaseConnection;
 
-    public Database(SqlServerConnection databaseConnection)
+    public Database(IDatabaseConnection databaseConnection)
     {
-        _databaseConnection = databaseConnection;
+        _databaseConnection = datbaseConnection;
     }
 }
