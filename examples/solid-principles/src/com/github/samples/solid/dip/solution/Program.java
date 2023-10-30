@@ -7,6 +7,6 @@ public class Program {
             Vehicle racingCar = new Vehicle(new RacingCar(100));
     
             //for unit test
-            Vehicle racingCarTest = new Student(new RacingCar(120));
+            Vehicle racingCarTest = new Automobile(new RacingCar(120));
         }
     }

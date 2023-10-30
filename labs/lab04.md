@@ -8,7 +8,7 @@ In this lab you will implement each of the SOLID Principles and update the code
 2. This class is creating all the rows and displaying them.
 3. Look at the repetitive nature of its tasks and how its trying to achieve too many activities.
 4. Open the file [BoardPresenter.java](../module4/SOLID-main/single_responsibility/good/src/BoardPresenter.java)
-5. Edit the file and copy the following code to Display Board after line 12:
+5. Edit the file and copy the following code to Display Board after line 11:
   
    ```
    public void displayBoard() {
